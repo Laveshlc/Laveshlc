@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Laveshlc
-- 👀 I’m interested in Cyber Security
+- 👋 Hi, I’m @Laveshlc.
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently studying for the OSCP.
 - 👨‍🎓 I graduated with a Bachelor of Science Degree with a Physics Major. 
 -  ✔ I currently hold two certifications: BTL1 and CRTP
