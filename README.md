@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laveshlc.
+- 👋 Hi, I’m Lavesh.
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently studying for the OSCP.
 -  ✔ I hold two certifications: BTL1 and CRTP
