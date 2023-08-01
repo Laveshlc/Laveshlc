@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lavesh.
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently studying for the OSCP.
--  ✔ I hold two certifications: BTL1 and CRTP
+- 👀 I’m interested in red teaming and penetration testing.
+- 🌱 I’m currently studying for the OSEP.
+-  ✔ I currently hold CRTE, CRTO, OSCP, CRTP and BTL1 certifications.
 
 <!---
 Laveshlc/Laveshlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
